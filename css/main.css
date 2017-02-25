@@ -1,0 +1,28 @@
+.toolbardemoBasicUsage md-toolbar md-icon.md-default-theme {
+    color: white; }
+
+md-list-item .md-avatar, md-list-item .md-list-item-inner .md-avatar {
+    -webkit-box-flex: 0;
+    -webkit-flex: none;
+    flex: none;
+    width: 200px;
+    height: 200px;
+}
+
+.giveMePointer
+{
+    cursor: pointer;
+}
+
+.lity.lity-opened.lity-iframe
+{
+    display: none;
+}
+
+.imgclass
+{
+
+    box-shadow: 2px 2px 2px #888888;
+    margin: 5px;
+    border:1px solid black;
+}
